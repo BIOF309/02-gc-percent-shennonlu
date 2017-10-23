@@ -42,3 +42,6 @@ print("{:.2%}".format(percentage)) #print as percentage
 
 
 # In[ ]:
+
+
+
